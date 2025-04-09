@@ -10,3 +10,5 @@
 
 ## 📌 Other Work
 - [Creative Portfolio](https://swiggy-cartel-product.my.canva.site/copy-of-creative-portfolio)
+- [Writting Portfolio](https://drive.google.com/drive/folders/1YUr8hiwiHnt2hLxDkeiAlNEKnIWstlnA)
+
