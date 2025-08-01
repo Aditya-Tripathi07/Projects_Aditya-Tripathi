@@ -1,105 +1,121 @@
-<!-- Simulated Dark Theme -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0E1111&height=180&section=header&text=Aditya%20Tripathi&fontColor=ffffff&fontSize=40&animation=fadeIn" />
 </p>
 
-<div style="background-color:#0d1117; padding: 20px; border-radius: 10px; color: #c9d1d9; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+<div style="background-color:#0d1117; padding: 25px; border-radius: 12px; color: #c9d1d9; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
 
-# 🚀 Aditya's Portfolio – Product, Data, and Digital Excellence
-
-Welcome to my portfolio! Here, you'll find projects that blend **data, design, and digital experiences** to solve real-world problems. From **SQL-driven insights** to **seamless UX designs**, my work focuses on **creating impact** through structured problem-solving and creative storytelling.
+# 🚀 Product | Data | Digital Strategy  
+Welcome to my portfolio 👋  
+Here, you'll find projects that merge **product thinking**, **data-driven insights**, and **digital storytelling** to solve real-world problems.
 
 ---
 
-## 📊 <a href="https://github.com/Aditya-Tripathi07/SQL_NETFLIX_PROJECT" style="color:#58a6ff">Netflix Content Analytics (SQL Project)</a>  
+## 🧠 About Me  
+🎓 BBA (Finance) from NSUT  
+💼 Product | Strategy | Growth Internships  
+🎯 Obsessed with solving friction-heavy experiences through design, systems, and storytelling.
+
+---
+
+## 🛠 Tech Stack & Tools  
+![SQL](https://img.shields.io/badge/-SQL-0e1117?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Figma](https://img.shields.io/badge/-Figma-0e1117?style=for-the-badge&logo=figma&logoColor=white)  
+![Excel](https://img.shields.io/badge/-Excel-0e1117?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![Canva](https://img.shields.io/badge/-Canva-0e1117?style=for-the-badge&logo=canva&logoColor=white)  
+![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-0e1117?style=for-the-badge&logo=google-sheets&logoColor=white)  
+![Adobe Suite](https://img.shields.io/badge/-Adobe%20Creative%20Cloud-0e1117?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white)  
+
+---
+
+## 📊 [Netflix Content Analytics (SQL Project)](https://github.com/Aditya-Tripathi07/SQL_NETFLIX_PROJECT)  
 ### *Decoding Content Trends with Data*  
-**Overview:**  
-A data analytics project built using SQL to explore content trends across Netflix.  
 
-**Key Contributions:**  
-- Wrote SQL queries to analyze:
-  - Genre distribution  
-  - Release trends  
-  - Regional content patterns  
-- Identified gaps in genre saturation.  
-- Recommended localization and release-timing improvements.
+**🔍 Overview**  
+A SQL-based project analyzing Netflix's global content trends for strategic content planning.
 
-**Skills/Tools:** SQL (GROUP BY, JOINs, DATE functions), Content Strategy  
-🔗 <a href="https://github.com/Aditya-Tripathi07/SQL_NETFLIX_PROJECT" style="color:#58a6ff">Project Link</a>
+**💡 Key Contributions**  
+- Genre & language segmentation  
+- Temporal analysis of releases  
+- Region-based trends  
+- Strategic content planning recommendations
 
----
-
-## 🍽️ <a href="https://swiggy-cartel-product.my.canva.site/" style="color:#58a6ff">Swiggy Cartel – Group Ordering Product Strategy</a>  
-### *Turning Chaos into a Seamless Ordering Experience*  
-
-**Overview:**  
-Conceptual strategy to streamline group ordering in delivery apps with real-time cart collaboration.
-
-**Key Contributions:**  
-- Built user personas (roommates, teams, parties).  
-- Mapped current flows and pain points.  
-- Introduced **Cartel Groups** for real-time item adds + bill splits.  
-- Suggested GTM cases like corporate tie-ups & student packs.  
-
-**Skills/Tools:** Product Thinking, UX Mapping, KPI Modeling  
-🔗 <a href="https://swiggy-cartel-product.my.canva.site/" style="color:#58a6ff">Project Link</a>
+**⚙️ Tools Used:** PostgreSQL, BI Thinking  
+🔗 [Explore Project](https://github.com/Aditya-Tripathi07/SQL_NETFLIX_PROJECT)
 
 ---
 
-## 🎬 <a href="https://swiggy-cartel-product.my.canva.site/netflix-product-website" style="color:#58a6ff">Netflix Watch Together – Product Ideation</a>  
-### *Because Movies are Better with Friends*
+## 🍽️ [Swiggy Cartel – Group Ordering Product Strategy](https://swiggy-cartel-product.my.canva.site/)  
+### *Making Group Orders Delightfully Easy*  
 
-**Overview:**  
-A social viewing feature for Netflix, similar to Teleparty or Prime Party.
+**🔍 Overview**  
+A conceptual product feature for solving the chaos of group food ordering.
 
-**Key Contributions:**  
-- Defined 3 personas: couples, fandoms, friends.  
-- Mapped sync playback and invite flows.  
-- Benchmarked competitors and proposed engagement metrics.  
-- Suggested tech feasibility: host control, chat overlay.  
+**💡 Key Contributions**  
+- User persona research (roommates, teams, parties)  
+- UX journey mapping and pain-point analysis  
+- Designed “Cartel Groups” (shared cart + auto split)  
+- KPI modeling: AOV uplift, cart abandon drop  
+- GTM suggestions: corporate, colleges, bulk packs
 
-**Skills/Tools:** UX Design, Persona Mapping, Feature Scoping  
-🔗 <a href="https://swiggy-cartel-product.my.canva.site/netflix-product-website" style="color:#58a6ff">Project Link</a>
-
----
-
-## 🎨 <a href="https://swiggy-cartel-product.my.canva.site/copy-of-creative-portfolio" style="color:#58a6ff">Creative Portfolio – Crafting Digital Narratives</a>  
-
-**Key Contributions:**  
-- Managed social media for clients across industries  
-- Built branding systems and campaign assets  
-- Created visual + narrative-led digital identities  
-
-**Skills/Tools:** Canva, Adobe Suite, Content Strategy  
-🔗 <a href="https://swiggy-cartel-product.my.canva.site/copy-of-creative-portfolio" style="color:#58a6ff">Project Link</a>
+**⚙️ Tools Used:** UX Mapping, Product Strategy  
+🔗 [Explore Project](https://swiggy-cartel-product.my.canva.site/)
 
 ---
 
-## ✍️ <a href="https://drive.google.com/drive/folders/1YUr8hiwiHnt2hLxDkeiAlNEKnIWstlnA" style="color:#58a6ff">Writing Portfolio – Words that Drive Action</a>  
+## 🎬 [Netflix Watch Together – Product Ideation](https://swiggy-cartel-product.my.canva.site/netflix-product-website)  
+### *Turning Streaming into a Shared Experience*  
 
-**Overview:**  
-Insight-driven writing focused on research, simplicity, and reach.
+**🔍 Overview**  
+Social viewing feature for Netflix, reimagining remote watch parties.
 
-**Key Contributions:**  
-- Thought leadership pieces  
-- Industry papers & breakdowns  
-- SEO-focused content strategy  
+**💡 Key Contributions**  
+- Personas: long-distance couples, fandoms, remote friends  
+- End-to-end synced playback design  
+- Feature benchmarking (Teleparty, Prime Video Party)  
+- Feasibility: host control, chat overlay  
+- Success metrics: session length, invites, repeats
 
-**Skills/Tools:** SEO Writing, Research, Google Docs  
-🔗 <a href="https://drive.google.com/drive/folders/1YUr8hiwiHnt2hLxDkeiAlNEKnIWstlnA" style="color:#58a6ff">Project Link</a>
-
----
-
-## 🛠 Tech & Tools Used  
-- SQL (PostgreSQL, MySQL)  
-- Figma (Wireframes, Prototypes)  
-- Excel (Dashboards, Reporting)  
-- Canva, Adobe Suite (Branding, Content)
+**⚙️ Tools Used:** UX Research, Competitive Analysis  
+🔗 [Explore Project](https://swiggy-cartel-product.my.canva.site/netflix-product-website)
 
 ---
 
-📬 <strong>Let’s Connect!</strong>  
-💼 <a href="https://www.linkedin.com/in/aditya7604/" style="color:#58a6ff">LinkedIn</a>  
-📧 Email: aditya.tripathi7604@gmail.com
+## 🎨 [Creative Portfolio – Crafting Digital Narratives](https://swiggy-cartel-product.my.canva.site/copy-of-creative-portfolio)  
+**🔍 Overview**  
+Showcase of visual branding, social campaigns, and digital storytelling for clients.
+
+**💡 Highlights**  
+- Social media growth campaigns  
+- Branding & narrative visual content  
+- Multi-industry content calendars & execution
+
+**⚙️ Tools Used:** Canva, Adobe Suite  
+🔗 [Explore Portfolio](https://swiggy-cartel-product.my.canva.site/copy-of-creative-portfolio)
+
+---
+
+## ✍️ [Writing Portfolio – Words that Drive Action](https://drive.google.com/drive/folders/1YUr8hiwiHnt2hLxDkeiAlNEKnIWstlnA)  
+**🔍 Overview**  
+Long-form articles, research content, and SEO writing that bridges insight with clarity.
+
+**💡 Includes**  
+- Thought leadership & industry breakdowns  
+- Marketing content & explainers  
+- Research-heavy documents and ghostwriting
+
+**⚙️ Tools Used:** Google Docs, SEO Practices  
+🔗 [Explore Portfolio](https://drive.google.com/drive/folders/1YUr8hiwiHnt2hLxDkeiAlNEKnIWstlnA)
+
+---
+
+## 🧭 Let’s Connect  
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditya7604/">
+    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Tripathi-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:aditya.tripathi7604@gmail.com">
+    <img src="https://img.shields.io/badge/Email-aditya.tripathi7604@gmail.com-black?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+</p>
 
 </div>
