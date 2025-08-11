@@ -6,7 +6,7 @@
 ## 📊 [Netflix Content Analytics (SQL)](https://github.com/Aditya-Tripathi07/SQL_NETFLIX_PROJECT)  
 *Decoding streaming trends through data.*  
 
-![Netflix SQL Preview](https://your-image-link.com/netflix-sql.png)  
+![Netflix SQL Preview](Netflix-product website (2).png)  
 
 - Analyzed genre distribution, release timing, and regional content trends.  
 - Suggested localization strategies & optimal release schedules.  
