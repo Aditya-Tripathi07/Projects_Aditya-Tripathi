@@ -1,21 +1,27 @@
-# Aditya Tripathi  
+# 🌟 Aditya Tripathi  
 *Product • Data • Digital Strategy*
 
 ---
 
 ## 📊 [Netflix Content Analytics (SQL)](https://github.com/Aditya-Tripathi07/SQL_NETFLIX_PROJECT)  
 *Decoding streaming trends through data.*  
+
+![Netflix SQL Preview](https://your-image-link.com/netflix-sql.png)  
+
 - Analyzed genre distribution, release timing, and regional content trends.  
-- Suggested content localization strategies and optimal release schedules.  
-- Tools: PostgreSQL, Data Analysis, BI Thinking.  
+- Suggested localization strategies & optimal release schedules.  
+- **Skills:** PostgreSQL, Data Analysis, BI Thinking.  
 [→ View Project](https://github.com/Aditya-Tripathi07/SQL_NETFLIX_PROJECT)
 
 ---
 
 ## 🍽 [Swiggy Cartel – Group Ordering Strategy](https://swiggy-cartel-product.my.canva.site/)  
 *Fixing the chaos of group food orders.*  
+
+![Swiggy Cartel Preview](https://your-image-link.com/swiggy-cartel.png)  
+
 - Created “Cartel Groups” with shared carts & auto bill-split.  
-- Defined KPIs: AOV uplift, lower abandonment rate.  
+- KPIs: AOV uplift, lower abandonment rate.  
 - GTM ideas: corporate orders, student packs, brand tie-ups.  
 [→ View Project](https://swiggy-cartel-product.my.canva.site/)
 
@@ -23,6 +29,9 @@
 
 ## 🎬 [Netflix Watch Together – Product Ideation](https://swiggy-cartel-product.my.canva.site/netflix-product-website)  
 *Turning streaming into a shared experience.*  
+
+![Netflix Watch Together Preview](https://your-image-link.com/netflix-watch.png)  
+
 - Personas: long-distance couples, fandoms, remote friends.  
 - Benchmarked Teleparty & Prime Video Party.  
 - Designed synced playback, live chat, and room customization.  
@@ -32,6 +41,9 @@
 
 ## 🎨 [Creative Portfolio](https://swiggy-cartel-product.my.canva.site/copy-of-creative-portfolio)  
 *Brand storytelling through visuals.*  
+
+![Creative Portfolio Preview](https://your-image-link.com/creative.png)  
+
 - Social media growth campaigns.  
 - Visual branding & narrative content.  
 - Multi-industry content calendars.  
@@ -41,6 +53,9 @@
 
 ## ✍️ [Writing Portfolio](https://drive.google.com/drive/folders/1YUr8hiwiHnt2hLxDkeiAlNEKnIWstlnA)  
 *Words that drive clarity and action.*  
+
+![Writing Portfolio Preview](https://your-image-link.com/writing.png)  
+
 - Thought leadership & industry explainers.  
 - Research-backed storytelling.  
 - SEO-optimized content.  
