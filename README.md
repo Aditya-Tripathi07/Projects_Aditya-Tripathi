@@ -6,7 +6,7 @@
 ## 📊 [Netflix Content Analytics (SQL)](https://github.com/Aditya-Tripathi07/SQL_NETFLIX_PROJECT)  
 *Decoding streaming trends through data.*  
 
-![Netflix SQL Preview](Netflix-product website (2).png)  
+![Netflix SQL Preview](https://github.com/Aditya-Tripathi07/Projects_Aditya-Tripathi/issues/2#issue-3308198283)  
 
 - Analyzed genre distribution, release timing, and regional content trends.  
 - Suggested localization strategies & optimal release schedules.  
@@ -18,7 +18,7 @@
 ## 🍽 [Swiggy Cartel – Group Ordering Strategy](https://swiggy-cartel-product.my.canva.site/)  
 *Fixing the chaos of group food orders.*  
 
-![Swiggy Cartel Preview](https://your-image-link.com/swiggy-cartel.png)  
+![Swiggy Cartel Preview](https://github.com/Aditya-Tripathi07/Projects_Aditya-Tripathi/issues/3#issue-3308198762)  
 
 - Created “Cartel Groups” with shared carts & auto bill-split.  
 - KPIs: AOV uplift, lower abandonment rate.  
